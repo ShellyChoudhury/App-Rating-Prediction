@@ -16,7 +16,19 @@ Identified  the apps those are promising and boosted visibility. High App rating
 5. **Sanity Check**
 
 Average rating should be between 1 and 5 as only these values are allowed on the play store. Dropped the rows that have a value outside this range.
-Reviews should not be more than installs as only those who installed can review the app. If there are any such records, drop them.
-For free apps (type = “Free”), the price should not be >0. Drop any such rows.
+Reviews should not be more than installs as only those who installed can review the app.
+For free apps (type = “Free”), the price should not be >0. Dropped any such rows.
+
+## Performing Univariate Analysis
+## Boxplot for Price
+![output_42_1](https://user-images.githubusercontent.com/107675917/195637142-747cc02a-a891-4fc6-a8cc-409e0daafb38.png)
+## Boxplot for Reviews
+![output_44_1](https://user-images.githubusercontent.com/107675917/195637565-67d9bf80-432c-470f-a16e-afc7cf2c7ef6.png)
+## Histplot for Rating
+![output_46_0](https://user-images.githubusercontent.com/107675917/195637820-c3e591ce-a666-4ab0-adb2-bf170fed79ec.png)
+## Histplot for Size
+![output_48_0](https://user-images.githubusercontent.com/107675917/195638151-e036dd36-25ca-4967-8865-17c9556091c3.png)
+
+## Outlier treatment
 
 
