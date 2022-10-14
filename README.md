@@ -72,7 +72,12 @@ Data pre-processing involves:
     
 This is important for model building as Machine Learning models can't process categorical data. All data columns before model building should be numeric.
     
-## Spliting daat into train and test
+## Spliting data into train and test
 The procedure is used to estimate the performance of Machine Learning algorithm when the are used to make prediction on data.
+
+## Model Building and Making prediction 
+
+Used **LinearRegression** technique of model building from **Scikit-Learn** Python Library.
+
 
 
