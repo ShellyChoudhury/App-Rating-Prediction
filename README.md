@@ -42,15 +42,15 @@ Looking for suspicious data.
 Deciding  a threshold as cutoff for outlier and dropping  records having values more than that.
 
 ## Bivariate Analysis
-**Joint plot for Rating vs Price **
+**Joint plot for Rating vs Price**
 
 ![output_66_2](https://user-images.githubusercontent.com/107675917/195846565-953d24bd-ba24-4f29-bc2b-1689bb9f4f64.png)
 
-**Joint plot for Size vs Rating **
+**Joint plot for Size vs Rating**
 
 ![output_67_2](https://user-images.githubusercontent.com/107675917/195847157-d5ffbedd-8870-440d-953a-fc6d1b090061.png)
 
-**Joint plot for Review vs Rating **
+**Joint plot for Review vs Rating**
 
 ![output_69_2](https://user-images.githubusercontent.com/107675917/195847535-ea62cb09-234f-4c3c-867f-fc228369abbe.png)
 
