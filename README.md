@@ -1,4 +1,4 @@
-# APP Rating Prediction using Machine Learning technique Linea Regression Model building in Python(Pandas,Numpy, Matplotlib,
+# APP Rating Prediction using Machine Learning technique Linear Regression Model building in Python(Pandas,Numpy, Matplotlib,
 ## Objective
 Developed a Machine Learning model to predict the Google apps which have high ratings.
 
