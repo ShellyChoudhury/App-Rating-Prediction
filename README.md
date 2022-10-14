@@ -20,21 +20,21 @@ Reviews should not be more than installs as only those who installed can review 
 For free apps (type = “Free”), the price should not be >0. Dropped any such rows.
 
 6. **Univariate Analysis**
-7. **Outlier Treatment
-8. **Bivariate Analysis
-9. **Data preProcessing
-10. **Train the data
-11. **Model Buildinhg
-12. **Making Prediction on test set 
+7. **Outlier Treatment**
+8. **Bivariate Analysis**
+9. **Data preProcessing**
+10. **Train the data**
+11. **Model Buildinhg**
+12. **Making Prediction on test set** 
 
 ## Performing Univariate Analysis
-## Boxplot for Price
+**Boxplot for Price**
 ![output_42_1](https://user-images.githubusercontent.com/107675917/195637142-747cc02a-a891-4fc6-a8cc-409e0daafb38.png)
-## Boxplot for Reviews
+**Boxplot for Reviews**
 ![output_44_1](https://user-images.githubusercontent.com/107675917/195637565-67d9bf80-432c-470f-a16e-afc7cf2c7ef6.png)
-## Histplot for Rating
+**Histplot for Rating**
 ![output_46_0](https://user-images.githubusercontent.com/107675917/195637820-c3e591ce-a666-4ab0-adb2-bf170fed79ec.png)
-## Histplot for Size
+**Histplot for Size**
 ![output_48_0](https://user-images.githubusercontent.com/107675917/195638151-e036dd36-25ca-4967-8865-17c9556091c3.png)
 
 ## Outlier treatment
@@ -43,18 +43,23 @@ Deciding  a threshold as cutoff for outlier and dropping  records having values 
 
 ## Bivariate Analysis
 **Joint plot for Rating vs Price **
+
 ![output_66_2](https://user-images.githubusercontent.com/107675917/195846565-953d24bd-ba24-4f29-bc2b-1689bb9f4f64.png)
 
 **Joint plot for Size vs Rating **
+
 ![output_67_2](https://user-images.githubusercontent.com/107675917/195847157-d5ffbedd-8870-440d-953a-fc6d1b090061.png)
 
 **Joint plot for Review vs Rating **
+
 ![output_69_2](https://user-images.githubusercontent.com/107675917/195847535-ea62cb09-234f-4c3c-867f-fc228369abbe.png)
 
 **Box plot for Rating vs Content writing**
+
 ![output_71_2](https://user-images.githubusercontent.com/107675917/195847921-09db0b37-deed-4ff2-a87e-fcc654f6ebd8.png)
 
 **Box plot for category vs Rating**
+
 ![output_73_2](https://user-images.githubusercontent.com/107675917/195848194-fc7df6ed-cce8-4feb-856e-da9bcabc7dec.png)
 
 ## Data pre-processing
